@@ -38,7 +38,7 @@ function Templates() {
             component={Link}
             to="/basic/header"
           >
-            The Basic
+            Create New
           </Button>
         </div>
         {/* Placeholder for a second template */}
